@@ -3,7 +3,7 @@
         <title>趁火寻车Blog</title>
         <link>/blog/</link>
         <description>趁火寻车博客分享找车技术与司法执行案例，帮助强制执行找不到车的人士找到查封车和失联车。</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 17 Oct 2021 11:21:16 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language>
             <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
         </channel>
 </rss>
