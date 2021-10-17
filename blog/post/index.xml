@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 趁火寻车Blog</title>
-    <link>/post/</link>
+    <link>/blog/post/</link>
     <description>Recent content in Posts on 趁火寻车Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Sun, 17 Oct 2021 11:21:16 +0800</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/blog/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hi</title>
-      <link>/post/hi/</link>
+      <link>/blog/post/hi/</link>
       <pubDate>Sun, 17 Oct 2021 11:21:16 +0800</pubDate>
       
-      <guid>/post/hi/</guid>
+      <guid>/blog/post/hi/</guid>
       <description>哈哈哈哈 dfsdfsfsdfsdfsfdsfsdfsfsdfsdf dfsdf dfdfdf dfsdfs</description>
     </item>
     
